@@ -1,0 +1,8 @@
+# Ignore a.exe
+a.exe
+
+# Ignore a.out
+a.out
+
+# Ignore .DS_Store
+.DS_Store
