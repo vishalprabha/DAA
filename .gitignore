@@ -2,7 +2,7 @@
 *.exe
 
 # Ignore a.out
-a.out
+*.out
 
 # Ignore .DS_Store
 .DS_Store
