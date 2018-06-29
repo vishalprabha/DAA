@@ -1,5 +1,5 @@
 # Ignore a.exe
-a.exe
+*.exe
 
 # Ignore a.out
 a.out
